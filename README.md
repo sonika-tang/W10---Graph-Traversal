@@ -34,7 +34,7 @@ The traversal order of vertices is printed to the console for both DFS and BFS.
 ## Results
 The traversal results starting from vertex `0` are:
 
-- **DFS (Recursive)**: `0 -> 1 -> 2 -> 3 -> 4`
+- **DFS**: `0 -> 1 -> 2 -> 3 -> 4`
 - **BFS**: `0 -> 1 -> 4 -> 2 -> 3`
 
 ## Explanation of Traversal Processes
